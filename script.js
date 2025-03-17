@@ -6,8 +6,8 @@ function insert_row() {
 	let new_Cell2 = new_row.insertCell(1);
 
 	
-      new_cell1.innerHTML = "new_Cell1"
-      new_cell2.innerHTML = "new_Cell2"
+      new_cell1.innerHTML = "New Cell1"
+      new_cell2.innerHTML = "New Cell2"
 	
 }
 
